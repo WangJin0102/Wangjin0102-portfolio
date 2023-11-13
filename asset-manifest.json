@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.d57e08e8.css",
-    "main.js": "./static/js/main.38f6d72c.js",
+    "main.css": "./static/css/main.66384365.css",
+    "main.js": "./static/js/main.46ae1ca2.js",
     "static/js/787.1fb2bd7c.chunk.js": "./static/js/787.1fb2bd7c.chunk.js",
     "static/media/pro_10.png": "./static/media/pro_10.3348d0be1a3bf767254d.png",
     "static/media/a_1.psd": "./static/media/a_1.b5e764fe2ed9498ea940.psd",
-    "static/media/18927178.jpg": "./static/media/18927178.b50476f01736bac1bee9.jpg",
+    "static/media/1892778.jpg": "./static/media/1892778.cbe4e0bffe6b5f6ceef9.jpg",
     "static/media/pro_7.png": "./static/media/pro_7.8e788a35a58294a8f5ce.png",
     "static/media/d_12.png": "./static/media/d_12.702d89993fd3124648f8.png",
     "static/media/a_7.png": "./static/media/a_7.2ac3f699c89c6debcfd9.png",
     "static/media/d_8.png": "./static/media/d_8.8890d4a795d3f1325a2d.png",
     "static/media/proyecto-app-17-com.png": "./static/media/proyecto-app-17-com.073401755bf2ffe2769e.png",
     "static/media/d_4.png": "./static/media/d_4.81f8e1ccfa1c200a701a.png",
-    "static/media/avatar.jpg": "./static/media/avatar.f2685e6853341a42c84e.jpg",
     "static/media/pro_6.png": "./static/media/pro_6.d5cc8fed48dcad9c87e3.png",
     "static/media/d_1.png": "./static/media/d_1.5f3d556f55748c1930e3.png",
     "static/media/d_16.png": "./static/media/d_16.8f8e3072c16000876582.png",
@@ -20,7 +19,6 @@
     "static/media/pro_5.png": "./static/media/pro_5.f142448182a2a96d2987.png",
     "static/media/a_8.png": "./static/media/a_8.d81e32adc0ea3e0fcfaf.png",
     "static/media/d_11.jpg": "./static/media/d_11.fbc1b6ba3eb8bc705fb2.jpg",
-    "static/media/1892778.jpg": "./static/media/1892778.d7a2dac23d9e9b5a0080.jpg",
     "static/media/proyecto-app-18-com.png": "./static/media/proyecto-app-18-com.208b6b4e834b5ec201b8.png",
     "static/media/cv.pdf": "./static/media/cv.d2bc8cfaa301da7b3789.pdf",
     "static/media/inicio.png": "./static/media/inicio.9e191e0f2820064e6d28.png",
@@ -33,6 +31,7 @@
     "static/media/d_9.jpg": "./static/media/d_9.412f5b10379a06f769ad.jpg",
     "static/media/pro_3.png": "./static/media/pro_3.2e92617f5c14b113e354.png",
     "static/media/d_12.jpg": "./static/media/d_12.7c3514850b72f4240ec5.jpg",
+    "static/media/avatar.jpg": "./static/media/avatar.63fc79598a69805374c3.jpg",
     "static/media/a_5.png": "./static/media/a_5.ee7e09a60764289200c0.png",
     "static/media/a_4.png": "./static/media/a_4.43f60a14e4406d82608a.png",
     "static/media/a_1.png": "./static/media/a_1.1a86fa62647c938796c7.png",
@@ -49,8 +48,6 @@
     "static/media/d_10.png": "./static/media/d_10.2f627959abcfeda58d5d.png",
     "static/media/a_3_1.png": "./static/media/a_3_1.0fbaa77f10cbf61189d3.png",
     "static/media/a_1_1.png": "./static/media/a_1_1.9493b0deda0518614a58.png",
-    "static/media/5569.jpg": "./static/media/5569.2319eb9c3ff5923f4104.jpg",
-    "static/media/1892788.jpg": "./static/media/1892788.70934156c0a86c3fd2fd.jpg",
     "static/media/a_2_1.png": "./static/media/a_2_1.347bdad2b2a419762111.png",
     "static/media/a_4_1.png": "./static/media/a_4_1.311aadfcb67943aec518.png",
     "static/media/pro_4.png": "./static/media/pro_4.08597f97a44bdf41b0b1.png",
@@ -98,12 +95,12 @@
     "static/media/proyecto-app-12.jpg": "./static/media/proyecto-app-12.0d8495ab02ed11fe1640.jpg",
     "static/media/proyecto-app-2.jpg": "./static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "./index.html",
-    "main.d57e08e8.css.map": "./static/css/main.d57e08e8.css.map",
-    "main.38f6d72c.js.map": "./static/js/main.38f6d72c.js.map",
+    "main.66384365.css.map": "./static/css/main.66384365.css.map",
+    "main.46ae1ca2.js.map": "./static/js/main.46ae1ca2.js.map",
     "787.1fb2bd7c.chunk.js.map": "./static/js/787.1fb2bd7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d57e08e8.css",
-    "static/js/main.38f6d72c.js"
+    "static/css/main.66384365.css",
+    "static/js/main.46ae1ca2.js"
   ]
 }
