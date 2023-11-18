@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.313c69ca.css",
-    "main.js": "./static/js/main.04a79f2d.js",
+    "main.js": "./static/js/main.b43e9abb.js",
     "static/js/787.1fb2bd7c.chunk.js": "./static/js/787.1fb2bd7c.chunk.js",
     "static/media/pro_10.png": "./static/media/pro_10.3348d0be1a3bf767254d.png",
     "static/media/a_1.psd": "./static/media/a_1.b5e764fe2ed9498ea940.psd",
@@ -21,6 +21,7 @@
     "static/media/proyecto-app-18.png": "./static/media/proyecto-app-18.275c2530c3bf1b1c2a44.png",
     "static/media/cv.pdf": "./static/media/cv.d2bc8cfaa301da7b3789.pdf",
     "static/media/inicio.png": "./static/media/inicio.9e191e0f2820064e6d28.png",
+    "static/media/avatar.jpg": "./static/media/avatar.b8e0bb5778c13683917c.jpg",
     "static/media/d_2.png": "./static/media/d_2.1e8c9ff86646081f65bb.png",
     "static/media/a_5_1.png": "./static/media/a_5_1.9fea82e21b4305ebb446.png",
     "static/media/d_7.png": "./static/media/d_7.90ebe77670b76ef0634f.png",
@@ -31,7 +32,6 @@
     "static/media/d_9.jpg": "./static/media/d_9.412f5b10379a06f769ad.jpg",
     "static/media/pro_3.png": "./static/media/pro_3.2e92617f5c14b113e354.png",
     "static/media/d_12.jpg": "./static/media/d_12.7c3514850b72f4240ec5.jpg",
-    "static/media/avatar.jpg": "./static/media/avatar.63fc79598a69805374c3.jpg",
     "static/media/a_5.png": "./static/media/a_5.ee7e09a60764289200c0.png",
     "static/media/a_4.png": "./static/media/a_4.43f60a14e4406d82608a.png",
     "static/media/a_1.png": "./static/media/a_1.1a86fa62647c938796c7.png",
@@ -96,11 +96,11 @@
     "static/media/proyecto-app-2.jpg": "./static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "./index.html",
     "main.313c69ca.css.map": "./static/css/main.313c69ca.css.map",
-    "main.04a79f2d.js.map": "./static/js/main.04a79f2d.js.map",
+    "main.b43e9abb.js.map": "./static/js/main.b43e9abb.js.map",
     "787.1fb2bd7c.chunk.js.map": "./static/js/787.1fb2bd7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.313c69ca.css",
-    "static/js/main.04a79f2d.js"
+    "static/js/main.b43e9abb.js"
   ]
 }
