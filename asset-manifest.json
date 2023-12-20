@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.a8012c26.css",
-    "main.js": "./static/js/main.ad61a1af.js",
-    "static/js/787.1fb2bd7c.chunk.js": "./static/js/787.1fb2bd7c.chunk.js",
+    "main.css": "./static/css/main.35e3c937.css",
+    "main.js": "./static/js/main.ffc70693.js",
+    "static/js/787.226a061c.chunk.js": "./static/js/787.226a061c.chunk.js",
     "static/media/pro_10.png": "./static/media/pro_10.3348d0be1a3bf767254d.png",
     "static/media/a_1.psd": "./static/media/a_1.b5e764fe2ed9498ea940.psd",
     "static/media/pro_7.png": "./static/media/pro_7.8e788a35a58294a8f5ce.png",
@@ -98,12 +98,12 @@
     "static/media/proyecto-app-12.jpg": "./static/media/proyecto-app-12.0d8495ab02ed11fe1640.jpg",
     "static/media/proyecto-app-2.jpg": "./static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "./index.html",
-    "main.a8012c26.css.map": "./static/css/main.a8012c26.css.map",
-    "main.ad61a1af.js.map": "./static/js/main.ad61a1af.js.map",
-    "787.1fb2bd7c.chunk.js.map": "./static/js/787.1fb2bd7c.chunk.js.map"
+    "main.35e3c937.css.map": "./static/css/main.35e3c937.css.map",
+    "main.ffc70693.js.map": "./static/js/main.ffc70693.js.map",
+    "787.226a061c.chunk.js.map": "./static/js/787.226a061c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8012c26.css",
-    "static/js/main.ad61a1af.js"
+    "static/css/main.35e3c937.css",
+    "static/js/main.ffc70693.js"
   ]
 }
