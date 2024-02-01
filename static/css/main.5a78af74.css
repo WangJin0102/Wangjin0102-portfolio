@@ -928,6 +928,11 @@ section .row .columns {
     overflow-x: hidden !important
 }
 
+.skill-seccion {
+    margin-bottom: 50px;
+    margin-top: 100px
+}
+
 section .row .columns h3 {
     color: var(--light-color);
     font-size: 2rem;
@@ -2391,7 +2396,7 @@ button.swiper-pagination-bullet {
 }
 
 .contenido {
-    background: url(../media/1892778.2d1bbea448840c8551df.jpg);
+    background: url(../media/1892778.4a615d83b20e3419057e.jpg);
     background-position: 50%;
     background-size: cover;
     height: 100vh
@@ -2771,4 +2776,4 @@ button.swiper-pagination-bullet {
     }
 }
 
-/*# sourceMappingURL=main.b79c3c8c.css.map*/
+/*# sourceMappingURL=main.5a78af74.css.map*/
